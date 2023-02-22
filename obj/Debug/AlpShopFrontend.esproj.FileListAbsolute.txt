@@ -1,0 +1,2 @@
+C:\Users\Reza\source\repos\AlpShop\AlpShopFrontEnd\obj\Debug\AlpShopFrontend.esproj.SuggestedBindingRedirects.cache
+C:\Users\Reza\source\repos\AlpShop\AlpShopFrontEnd\obj\Debug\AlpShopFrontend.esproj.CoreCompileInputs.cache
